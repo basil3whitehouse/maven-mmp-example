@@ -18,6 +18,7 @@
       <groupId>org.apache.geronimo.specs</groupId>
       <artifactId>geronimo-servlet_2.4_spec</artifactId>
       <version>1.1.1</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>${project.groupId}</groupId>
@@ -42,6 +43,7 @@
       <groupId>javax.servlet</groupId>
       <artifactId>jstl</artifactId>
       <version>1.1.2</version>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>taglibs</groupId>
